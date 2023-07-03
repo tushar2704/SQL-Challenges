@@ -2,6 +2,8 @@
 
 SQL-Challenges is a collection of SQL challenges designed to demonstrate my skills and expertise in database management, data analysis, and data manipulation using SQL. This repository serves as a showcase of my abilities to handle complex SQL queries, optimize database performance, and solve real-world data problems.
 
+<a href="https://www.buymeacoffee.com/TAggData"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=TAggData&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
 ## Table of Contents
 - [Features](#features)
 - [Challenges](#challenges)
